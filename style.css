@@ -1,0 +1,72 @@
+*{
+          font-family: 'Spartan', sans-serif;
+}
+
+.navbar{
+          margin-top: -500px;
+}
+
+.slider-control{
+          position: unset; 
+          width: 70px;
+          margin-top: 500px;
+          margin-left: -93px;
+}
+
+.carousel-control-prev-icon{
+          margin-left: -197px;
+          background-color: black;
+          height: 50px;
+          width: 50px;
+}
+
+.carousel-control-next-icon{
+          margin-left: -51px;
+          background-color: black;
+          height: 50px;
+          width: 50px;
+}
+
+.room-img{
+        height: 550px;
+        
+          
+}
+
+.sliders{
+          margin-left: -24px;
+          width: 795px;
+}
+
+
+
+.heading-txt{
+          margin-left: 45px;
+}
+
+.shopping-container{
+          margin-top: -450px;
+}
+
+.shopping-link{
+          margin-left: 50px;
+          color: #555;
+          letter-spacing: 7px;
+}
+
+.arrow-img{
+          margin-left: 20px;
+          width: 60px;
+}
+
+.small-images{
+          width: 450px;
+}
+
+.light-img{
+          height: 285px;
+}
+
+.carousel-control-next, .carousel-control-prev{
+          opacity: 1;
+}
